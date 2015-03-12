@@ -82,4 +82,4 @@ production:
   <<: *default
   database: testapp_development
   username: solarisnite@gmail.com
-  password: 75529123snite
+  password: 
